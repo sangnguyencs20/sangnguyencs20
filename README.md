@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=sangnguyencs20&color=green)
 - 👋 Hi, I’m @sangnguyencs20
 - 👀 I’m interested in football and coding
 - 🌱 I’m currently learning Computer Science in Ho Chi Minh City University of Technology
