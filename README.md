@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=sangnguyencs20&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sangnguyencs20&theme=blue-green)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sangnguyencs20&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
