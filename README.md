@@ -9,3 +9,5 @@ sangnguyencs20/sangnguyencs20 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=sangnguyencs20&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sangnguyencs20&theme=blue-green)
+
