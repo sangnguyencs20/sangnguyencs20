@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sangnguyencs20&color=blue)
 <h1 align="center">
-  👋 Hi, I’m @sangnguyencs20 
+  👋 Hi, I’m Sang Vinh Nguyen
 </h1>
 
 <h2> 📝 Introduction</h2>
