@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sangnguyencs20&color=blue)
-- 👋 Hi, I’m @sangnguyencs20
+<p align="center">
+👋 Hi, I’m @sangnguyencs20
+</p>
 - 🌱 I’m currently learning Computer Science in Ho Chi Minh City University of Technology
 - 📫 You can contact me by email: sang.nguyenvinh@hcmut.edu.vn or my facebook: https://www.facebook.com/vnhsngxxx.
 - 👯 I’m seeking an internship on Software Developer (Web & Mobile).
