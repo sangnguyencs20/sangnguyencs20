@@ -2,7 +2,7 @@
 <h1 align="center">
   👋 Hi, I’m Sang Vinh Nguyen
 </h1>
-![Snake animation](https://github.com/sangnguyencs20/sangnguyencs20/blob/output/github-contribution-grid-snake.svg)
+
 
 <h2> 📝 Introduction</h2>
   
