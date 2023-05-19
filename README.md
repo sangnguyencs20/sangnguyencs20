@@ -62,16 +62,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h2>📊 GitHub Stats </h2>
-
-![](https://github-profile-trophy.vercel.app/?username=sangnguyencs20&theme=synthwave)
-
-
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=sangnguyencs20&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sangnguyencs20&theme=blue-green)
 
-
-![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sangnguyencs20&theme=blue-green)
 
 
 
