@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/sangnguyencs20)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sang-nguy%E1%BB%85n-752a2a209/)
 
-<h2>💻 Technology</h2>
 
 
 <!-- <h3>Frontend: </h3>
 
+<h2>💻 Technology</h2>
   
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
