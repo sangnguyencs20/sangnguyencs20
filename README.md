@@ -60,11 +60,12 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=sangnguyencs20&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sangnguyencs20&theme=blue-green)
 
+-->
 
 
 
