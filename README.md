@@ -6,7 +6,7 @@
 
 <h2> 📝 Introduction</h2>
   
-- 🌱 I’m a third-year student studying Computer Science at Ho Chi Minh City University of Technology
+- 🌱 I’m a last-year student studying Computer Science at Ho Chi Minh City University of Technology
 
 - 👨‍💻 I'm currently learning MERN Stack, especially backend, and a bit of data engineering :D 
   
