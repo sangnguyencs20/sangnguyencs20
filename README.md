@@ -8,9 +8,7 @@
   
 - 🌱 I’m a last-year student studying Computer Science at Ho Chi Minh City University of Technology
 
-- 👨‍💻 I'm currently learning MERN Stack, especially backend, and a bit of data engineering :D 
-  
-- 👯 I’m seeking an internship on Software Developer (Web & Mobile).
+- 👨‍💻 I'm currently a C++ Developer, and also researching data engineering.
   
 - 👀 I’m interested in football and coding
 
